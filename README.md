@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil 👋
 
 - 🔭 Atualmente disponível para contrato como Back-and (Java).
-- 🌱 Estudando o universo Front-and e Análise de Dados (Python).
+- 🌱 Estudando Análise de Dados e aprendizado de máquina (Python).
 - 📫 Como entrar em contato comigo: joao.victor.franca07@aluno.ifce.edu.br
 - 😄 Pronomes: Ele, Dele...
 
